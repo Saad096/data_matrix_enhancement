@@ -1,0 +1,6 @@
+https://universe.roboflow.com/dmdetection-ar4dk/dm-detection/model/1
+-- Model to detect DM and its modules
+https://products.aspose.app/barcode/recognize/datamatrix\#/recognized
+-- Reading tool
+-- purpose is to recreate the boundy and the modules for the DM into a perfect DM like the one aspose generates.
+
